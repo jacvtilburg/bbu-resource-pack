@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 18,
+    "supported_formats": {
+      "min_inclusive": 0,
+      "max_inclusive": 64
+    },
+    "description": "Jesse's Server Resource Pack | Invisible Item Frames, Invisible String & Quality of Life Improvements"
+  }
+}
